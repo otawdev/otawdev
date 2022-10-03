@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/otawdev/otawdev/blob/main/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Otabek Umarov</h1>
 <h3 align="center">A passionate Fullstack developer from South Korea</h3>
 
